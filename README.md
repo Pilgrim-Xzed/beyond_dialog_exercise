@@ -1,16 +1,24 @@
-# exercise
+# Ubenwa Coding Exercise
 
-A new Flutter project.
+Codes for BeyondDialog Exercise
 
-## Getting Started
+>SCREEN SHOT
 
-This project is a starting point for a Flutter application.
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+  <img src="./screenshot/screenshot.jpg" width="200"/>
+</td>
+  
 
-A few resources to get you started if this is your first Flutter project:
+ 
+</tr></table></div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Run
+flutter packages get <br>
+flutter run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download App
+
+Click the [DOWNLOAD APP](https://github.com/saeedbello/beyond_dialog_exercise/raw/master/app-release.apk) to download the .apk version of the app.
+
+
