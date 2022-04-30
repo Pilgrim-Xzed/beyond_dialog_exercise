@@ -1,4 +1,4 @@
-# Beyond Coding Exercise
+# BeyondDialog Coding Exercise
 
 Codes for BeyondDialog Exercise
 
