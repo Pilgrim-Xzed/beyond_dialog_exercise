@@ -1,10 +1,10 @@
 import 'package:exercise/resource/constants.dart';
-import 'package:exercise/resource/extentions.dart';
+import 'package:exercise/resource/utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:pausable_timer/pausable_timer.dart';
 
 class ExerciseProvider extends ChangeNotifier {
-  int? currentIndex = 0;
+  int? currentIndex;
   int totalDelayTime = 0;
   double averageReactionTime = 0;
   PausableTimer timer =
